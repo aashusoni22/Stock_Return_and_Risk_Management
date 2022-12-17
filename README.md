@@ -1,5 +1,7 @@
 # Stock_Return_and_Risk_Management_Analysis
 
+**Tool used:** Google Sheets
+
 **•	Objective:** To analysis historical stock data to draw insights on stock returns and the risk associated with it. 
 
 •	Performed Data cleaning - removed duplicates, blanks to ensure data integrity.
